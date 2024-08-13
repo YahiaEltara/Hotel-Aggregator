@@ -5,3 +5,5 @@ First of all, I decided to read what the requirements are and go to data to expl
 - Data Cleaning: Dealing with missing data. Some of it needed to be inferred by finding out the outliers, modes, means, SDs … ect. A group of the other needed to be informed from the main source and the another could not be inferred with no problem if it is let blank.
 - Data Analysis: After preparing the data, we should to analyze it, find patterns and answer the questions.
 -Data Visualization: In the end, I visualize every answer I get from the data by a chart to help others understanding the data easily and notice what I found.
+
+Finally, i made a Power Point file to explore what i got from the data as information & to show recommendations must be done.
